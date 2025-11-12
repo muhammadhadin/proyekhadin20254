@@ -34,68 +34,78 @@
   <main class="news-section">
     <h2>Berita Terkini</h2>
     <div class="news-grid">
-      <article class="card">
-        <img src="bekasi-diguyur-hujan-deras-2-ruas-jalan-terendam-banjir-30-cm-apk.jpg" alt="Berita Nasional">
-        <h3>Hujan Deras Guyur Bekasi</h3>
-        <p>Beberapa wilayah di Bekasi terendam banjir setelah hujan deras mengguyur sejak sore hari.</p>
-        <a href="https://daerah.sindonews.com/read/1602163/6/hujan-deras-guyur-kota-bekasi-6-wilayah-terendam-banjir-1754309302" class="readmore">Baca Selengkapnya</a>
-      </article>
-
-      <article class="card">
-        <img src="timnas.jpg" alt="Berita Olahraga">
-        <h3>Timnas Indonesia Menang 3-0</h3>
-        <p>Timnas U-17 Indonesia berhasil menang telak atas tim tamu dalam laga persahabatan di Jakarta.</p>
-        <a href="https://superball.bolasport.com/read/334140770/hasil-uji-coba-4-gol-tercipta-timnas-u-17-indonesia-menang-meyakinkan-atas-india" class="readmore">Baca Selengkapnya</a>
-      </article>
-
-      <article class="card">
-        <img src="anaksma.jpg" alt="Berita Teknologi">
-        <h3>Pelajar Indonesia Bikin Robot Pintar</h3>
-        <p>Pria ini diburu Polisi gegara pakai lagu AI.</p>
-        <a href="https://www.detik.com/jabar/hukum-dan-kriminal/d-8195583/pria-ini-diburu-polisi-gegara-bikin-lagu-pakai-ai" class="readmore">Baca Selengkapnya</a>
-      </article>
+      <p>Memuat berita terbaru...</p>
     </div>
   </main>
 
   <footer class="footer-section">
-  <div class="footer-overlay">
-    <div class="footer-container">
-      <div class="footer-column">
-        <h3>Hadin News</h3>
-        <p>Media berita online terpercaya — Hadin News</p>
-        <p>📍 Bekasi, Indonesia</p>
-        <p>📞 +62 821 1305 9868</p>
-        <p>✉️ amuhammadhadin@gmai.com</p>
-      </div>
+    <div class="footer-overlay">
+      <div class="footer-container">
+        <div class="footer-column">
+          <h3>Hadin News</h3>
+          <p>Media berita online terpercaya — Hadin News</p>
+          <p>📍 Bekasi, Indonesia</p>
+          <p>📞 +62 821 1305 9868</p>
+          <p>✉️ amuhammadhadin@gmai.com</p>
+        </div>
 
-      <div class="footer-column">
-        <h4>Ketentuan</h4>
-        <ul>
-          <li><a href="#">Kebijakan Privasi</a></li>
-          <li><a href="#">Pedoman Media Siber</a></li>
-          <li><a href="#">Tentang Kami</a></li>
-          <li><a href="#">Peta Situs</a></li>
-        </ul>
-      </div>
+        <div class="footer-column">
+          <h4>Ketentuan</h4>
+          <ul>
+            <li><a href="#">Kebijakan Privasi</a></li>
+            <li><a href="#">Pedoman Media Siber</a></li>
+            <li><a href="#">Tentang Kami</a></li>
+            <li><a href="#">Peta Situs</a></li>
+          </ul>
+        </div>
 
-      <div class="footer-column">
-        <h4>Link Terkait</h4>
-        <ul>
-          <li><a href="#">Berita Nasional</a></li>
-          <li><a href="#">Olahraga</a></li>
-          <li><a href="#">Teknologi</a></li>
-        </ul>
-        <div class="social-icons">
-        
+        <div class="footer-column">
+          <h4>Link Terkait</h4>
+          <ul>
+            <li><a href="#">Berita Nasional</a></li>
+            <li><a href="#">Olahraga</a></li>
+            <li><a href="#">Teknologi</a></li>
+          </ul>
+          <div class="social-icons"></div>
         </div>
       </div>
     </div>
-  </div>
-  <div class="footer-bottom">
-    <p>© 2025 Hadin News | Dibuat oleh Muhammad Hadin Aditya Utama</p>
-  </div>
-</footer>
+    <div class="footer-bottom">
+      <p>© 2025 Hadin News | Dibuat oleh Muhammad Hadin Aditya Utama</p>
+    </div>
+  </footer>
 
+  <!-- ==============================
+       SCRIPT OTOMATIS UPDATE BERITA
+  =============================== -->
+  <script>
+  // Fungsi untuk memuat berita dari file JSON
+  async function loadBerita() {
+    try {
+      const res = await fetch('news.json');
+      const berita = await res.json();
+      const container = document.querySelector('.news-grid');
+      container.innerHTML = ''; // Kosongkan isi lama
+
+      berita.forEach(item => {
+        const article = document.createElement('article');
+        article.classList.add('card');
+        article.innerHTML = `
+          <img src="${item.gambar}" alt="Berita">
+          <h3>${item.judul}</h3>
+          <p>${item.deskripsi}</p>
+          <a href="${item.link}" class="readmore" target="_blank">Baca Selengkapnya</a>
+        `;
+        container.appendChild(article);
+      });
+    } catch (error) {
+      console.error('Gagal memuat berita:', error);
+      document.querySelector('.news-grid').innerHTML = '<p>Gagal memuat berita.</p>';
+    }
+  }
+
+  // Jalankan saat halaman dibuka
+  loadBerita();
+  </script>
 </body>
 </html>
-
