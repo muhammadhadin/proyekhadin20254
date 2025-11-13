@@ -1,27 +1,122 @@
-
 [
   {
-    "judul": "Bekasi Diguyur Hujan Deras",
-    "deskripsi": "Beberapa wilayah di Bekasi terendam banjir setelah hujan deras mengguyur sejak sore hari.",
-    "gambar": "bekasi-diguyur-hujan-deras-2-ruas-jalan-terendam-banjir-30-cm-apk.jpg",
-    "link": "https://daerah.sindonews.com/read/1602163/6/hujan-deras-guyur-kota-bekasi-6-wilayah-terendam-banjir-1754309302"
+    "judul": "Hujan Deras Sebabkan Banjir di Beberapa Titik Bekasi",
+    "deskripsi": "Curah hujan tinggi sejak sore hari membuat sejumlah wilayah di Bekasi terendam air hingga setinggi 30 cm.",
+    "gambar": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg",
+    "link": "https://hadinnews.id/berita/hujan-deras-bekasi"
   },
   {
-    "judul": "Peledakan bom di sekolah SMAN 72 Jakarta",
-    "deskripsi": "Peledakan SMAN 72 JAKARTA belajar rakit bom dari tutorial internet",
-    "gambar": "sman72.png",
-    "link": "https://www.cnnindonesia.com/nasional/20251111090557-12-1294146/terduga-pelaku-ledakan-sma-72-belajar-rakit-bom-dari-tutorial-internet"
+    "judul": "Pemerintah Dorong Penggunaan Kendaraan Listrik di 2025",
+    "deskripsi": "Kementerian Perhubungan menargetkan 200 ribu kendaraan listrik beroperasi di Indonesia hingga akhir 2025.",
+    "gambar": "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg",
+    "link": "https://hadinnews.id/berita/kendaraan-listrik-2025"
   },
   {
-    "judul": "Pelajar Indonesia Bikin Robot Pintar",
-    "deskripsi": "Seorang pelajar Indonesia berhasil membuat robot cerdas yang bisa membantu aktivitas manusia sehari-hari.",
-    "gambar": "anaksma.jpg",
-    "link": "https://www.detik.com/jabar/hukum-dan-kriminal/d-8195583/pria-ini-diburu-polisi-gegara-bikin-lagu-pakai-ai"
+    "judul": "Timnas Indonesia Menang Telak 4-0 atas Malaysia",
+    "deskripsi": "Pertandingan persahabatan antara Indonesia dan Malaysia di Stadion Utama Gelora Bung Karno berakhir dengan kemenangan besar untuk Garuda.",
+    "gambar": "https://images.pexels.com/photos/270750/pexels-photo-270750.jpeg",
+    "link": "https://hadinnews.id/olahraga/timnas-menang-malaysia"
   },
   {
-    "judul": "Teknologi AI di Dunia Pendidikan",
-    "deskripsi": "Kecerdasan buatan kini mulai diterapkan di sekolah dan universitas untuk membantu proses belajar-mengajar.",
-    "gambar": "ai utama.jpg",
-    "link": "https://rri.co.id/iptek/1281280/teknologi-a-i-mengambil-alih-dunia-ini-faktanya"
+    "judul": "Pelajar Indonesia Raih Juara Dunia Robotik 2025",
+    "deskripsi": "Tim pelajar asal Bandung berhasil menjuarai kompetisi robotik internasional di Tokyo dengan inovasi robot penyelamat bencana.",
+    "gambar": "https://images.pexels.com/photos/2884772/pexels-photo-2884772.jpeg",
+    "link": "https://hadinnews.id/teknologi/robotik-pelajar-juara"
+  },
+  {
+    "judul": "Harga Beras di Pasar Tradisional Mulai Turun",
+    "deskripsi": "Setelah sempat melonjak, harga beras di sejumlah pasar mulai mengalami penurunan menjelang akhir tahun.",
+    "gambar": "https://images.pexels.com/photos/262347/pexels-photo-262347.jpeg",
+    "link": "https://hadinnews.id/ekonomi/harga-beras-turun"
+  },
+  {
+    "judul": "Aplikasi Baru Buatan Anak Muda Bekasi Viral di Play Store",
+    "deskripsi": "Aplikasi bernama 'SaveIt' karya anak muda asal Bekasi menarik perhatian publik karena membantu pengguna menabung otomatis.",
+    "gambar": "https://images.pexels.com/photos/5473954/pexels-photo-5473954.jpeg",
+    "link": "https://hadinnews.id/teknologi/saveit-bekasi"
+  },
+  {
+    "judul": "PLN Umumkan Program Diskon Listrik Akhir Tahun",
+    "deskripsi": "PLN memberikan potongan tarif listrik untuk pelanggan rumah tangga dalam rangka mendorong efisiensi energi nasional.",
+    "gambar": "https://images.pexels.com/photos/258416/pexels-photo-258416.jpeg",
+    "link": "https://hadinnews.id/nasional/pln-diskon"
+  },
+  {
+    "judul": "Turnamen Esport Nasional Resmi Dibuka di Jakarta",
+    "deskripsi": "Kompetisi esport terbesar di Indonesia resmi dimulai dengan ratusan peserta dari berbagai daerah.",
+    "gambar": "https://images.pexels.com/photos/1150226/pexels-photo-1150226.jpeg",
+    "link": "https://hadinnews.id/olahraga/esport-turnamen"
+  },
+  {
+    "judul": "AI Kini Dapat Membuat Musik Sendiri",
+    "deskripsi": "Teknologi AI generatif kini mampu menciptakan musik orisinal tanpa campur tangan manusia.",
+    "gambar": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg",
+    "link": "https://hadinnews.id/teknologi/ai-musik"
+  },
+  {
+    "judul": "Bekasi Luncurkan Program Kota Hijau",
+    "deskripsi": "Pemerintah Kota Bekasi meluncurkan program penghijauan massal dengan target 10 ribu pohon baru di 2025.",
+    "gambar": "https://images.pexels.com/photos/1405834/pexels-photo-1405834.jpeg",
+    "link": "https://hadinnews.id/nasional/kota-hijau-bekasi"
+  },
+  {
+    "judul": "Startup Lokal Dapat Pendanaan Rp 50 Miliar",
+    "deskripsi": "Perusahaan rintisan bidang agritech asal Yogyakarta mendapat suntikan dana untuk ekspansi ke Asia Tenggara.",
+    "gambar": "https://images.pexels.com/photos/3183171/pexels-photo-3183171.jpeg",
+    "link": "https://hadinnews.id/ekonomi/startup-agritech"
+  },
+  {
+    "judul": "Jalan Tol Baru Jakarta–Bogor Diresmikan",
+    "deskripsi": "Tol sepanjang 27 km ini diharapkan mengurangi kemacetan dan mempercepat waktu tempuh hingga 30%.",
+    "gambar": "https://images.pexels.com/photos/210661/pexels-photo-210661.jpeg",
+    "link": "https://hadinnews.id/nasional/tol-jakarta-bogor"
+  },
+  {
+    "judul": "Timnas U-20 Siap Hadapi Piala Asia",
+    "deskripsi": "Skuad muda Indonesia menjalani pemusatan latihan di Turki sebagai persiapan menghadapi kejuaraan Asia.",
+    "gambar": "https://images.pexels.com/photos/3991878/pexels-photo-3991878.jpeg",
+    "link": "https://hadinnews.id/olahraga/timnas-u20"
+  },
+  {
+    "judul": "Teknologi Satelit Dukung Pemantauan Cuaca Ekstrem",
+    "deskripsi": "BMKG mulai menggunakan satelit baru untuk memperkirakan potensi cuaca ekstrem lebih akurat.",
+    "gambar": "https://images.pexels.com/photos/260690/pexels-photo-260690.jpeg",
+    "link": "https://hadinnews.id/teknologi/satelit-cuaca"
+  },
+  {
+    "judul": "Harga Tiket Pesawat Turun Menjelang Libur Natal",
+    "deskripsi": "Beberapa maskapai mulai menurunkan harga tiket pesawat domestik untuk menarik minat wisatawan.",
+    "gambar": "https://images.pexels.com/photos/325521/pexels-photo-325521.jpeg",
+    "link": "https://hadinnews.id/ekonomi/tiket-pesawat"
+  },
+  {
+    "judul": "Festival Kuliner Nusantara Ramai Dikunjungi",
+    "deskripsi": "Ratusan warga antusias menghadiri festival kuliner yang menampilkan makanan khas dari berbagai daerah.",
+    "gambar": "https://images.pexels.com/photos/302680/pexels-photo-302680.jpeg",
+    "link": "https://hadinnews.id/gaya-hidup/festival-kuliner"
+  },
+  {
+    "judul": "Polisi Tangkap Sindikat Penipuan Online",
+    "deskripsi": "Polda Metro Jaya berhasil mengamankan 12 pelaku penipuan daring yang beroperasi lintas provinsi.",
+    "gambar": "https://images.pexels.com/photos/257840/pexels-photo-257840.jpeg",
+    "link": "https://hadinnews.id/hukum/penipuan-online"
+  },
+  {
+    "judul": "Mahasiswa Ciptakan Aplikasi Pemantau Sampah",
+    "deskripsi": "Inovasi baru dari mahasiswa Surabaya ini mampu mendeteksi volume sampah di kota secara real-time.",
+    "gambar": "https://images.pexels.com/photos/3735430/pexels-photo-3735430.jpeg",
+    "link": "https://hadinnews.id/teknologi/aplikasi-sampah"
+  },
+  {
+    "judul": "Ekspor Kopi Indonesia Naik 12 Persen",
+    "deskripsi": "Kopi asal Sumatera dan Sulawesi menjadi primadona ekspor tahun ini berkat peningkatan kualitas biji kopi.",
+    "gambar": "https://images.pexels.com/photos/302895/pexels-photo-302895.jpeg",
+    "link": "https://hadinnews.id/ekonomi/kopi-indonesia"
+  },
+  {
+    "judul": "Film Lokal Terbaru Raup 2 Juta Penonton",
+    "deskripsi": "Film komedi romantis karya anak bangsa berhasil menembus rekor baru di bioskop nasional.",
+    "gambar": "https://images.pexels.com/photos/3934882/pexels-photo-3934882.jpeg",
+    "link": "https://hadinnews.id/hiburan/film-lokal"
   }
 ]
