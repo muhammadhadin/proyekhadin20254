@@ -1,122 +1,128 @@
 [
   {
-    "judul": "Hujan Deras Sebabkan Banjir di Beberapa Titik Bekasi",
-    "deskripsi": "Curah hujan tinggi sejak sore hari membuat sejumlah wilayah di Bekasi terendam air hingga setinggi 30 cm.",
-    "gambar": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg",
-    "link": "https://hadinnews.id/berita/hujan-deras-bekasi"
+    "judul": "Hujan Lebat Disertai Angin Kencang Terjang Bekasi Malam Ini",
+    "deskripsi": "Cuaca ekstrem kembali melanda wilayah Bekasi dengan hujan deras disertai angin kencang yang menyebabkan beberapa pohon tumbang.",
+    "gambar": "https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg",
+    "link": "https://hadinnews.id/cuaca/badai-bekasi"
   },
   {
-    "judul": "Pemerintah Dorong Penggunaan Kendaraan Listrik di 2025",
-    "deskripsi": "Kementerian Perhubungan menargetkan 200 ribu kendaraan listrik beroperasi di Indonesia hingga akhir 2025.",
-    "gambar": "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg",
-    "link": "https://hadinnews.id/berita/kendaraan-listrik-2025"
+    "judul": "Penggunaan AI di Sekolah Meningkat Tajam Pada 2025",
+    "deskripsi": "Sejumlah sekolah di Jakarta dan Bekasi mulai menerapkan AI sebagai alat bantu pembelajaran harian.",
+    "gambar": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+    "link": "https://hadinnews.id/teknologi/ai-di-sekolah"
   },
   {
-    "judul": "Timnas Indonesia Menang Telak 4-0 atas Malaysia",
-    "deskripsi": "Pertandingan persahabatan antara Indonesia dan Malaysia di Stadion Utama Gelora Bung Karno berakhir dengan kemenangan besar untuk Garuda.",
-    "gambar": "https://images.pexels.com/photos/270750/pexels-photo-270750.jpeg",
-    "link": "https://hadinnews.id/olahraga/timnas-menang-malaysia"
+    "judul": "Timnas Indonesia U-23 Berhasil Lolos ke Final Turnamen Asia",
+    "deskripsi": "Skuad muda Indonesia tampil gemilang dan memastikan tempat di final setelah menang 2-1 di babak semifinal.",
+    "gambar": "https://images.pexels.com/photos/3991876/pexels-photo-3991876.jpeg",
+    "link": "https://hadinnews.id/olahraga/timnas-u23-final"
   },
   {
-    "judul": "Pelajar Indonesia Raih Juara Dunia Robotik 2025",
-    "deskripsi": "Tim pelajar asal Bandung berhasil menjuarai kompetisi robotik internasional di Tokyo dengan inovasi robot penyelamat bencana.",
-    "gambar": "https://images.pexels.com/photos/2884772/pexels-photo-2884772.jpeg",
-    "link": "https://hadinnews.id/teknologi/robotik-pelajar-juara"
+    "judul": "Startup Energi Terbarukan Indonesia Dilirik Investor Global",
+    "deskripsi": "Perusahaan rintisan yang fokus pada panel surya rumah tangga menarik pendanaan dari Jepang dan Singapura.",
+    "gambar": "https://images.pexels.com/photos/987544/pexels-photo-987544.jpeg",
+    "link": "https://hadinnews.id/ekonomi/startup-energi"
   },
   {
-    "judul": "Harga Beras di Pasar Tradisional Mulai Turun",
-    "deskripsi": "Setelah sempat melonjak, harga beras di sejumlah pasar mulai mengalami penurunan menjelang akhir tahun.",
-    "gambar": "https://images.pexels.com/photos/262347/pexels-photo-262347.jpeg",
-    "link": "https://hadinnews.id/ekonomi/harga-beras-turun"
+    "judul": "Jalan Raya Siliwangi Bekasi Alami Kemacetan Parah Pagi Ini",
+    "deskripsi": "Antrian panjang kendaraan terjadi akibat truk mogok di tengah jalur utama menuju Jakarta.",
+    "gambar": "https://images.pexels.com/photos/210182/pexels-photo-210182.jpeg",
+    "link": "https://hadinnews.id/lalu-lintas/siliwangi-macet"
   },
   {
-    "judul": "Aplikasi Baru Buatan Anak Muda Bekasi Viral di Play Store",
-    "deskripsi": "Aplikasi bernama 'SaveIt' karya anak muda asal Bekasi menarik perhatian publik karena membantu pengguna menabung otomatis.",
-    "gambar": "https://images.pexels.com/photos/5473954/pexels-photo-5473954.jpeg",
-    "link": "https://hadinnews.id/teknologi/saveit-bekasi"
+    "judul": "Aplikasi Pembayaran Baru 'PayFast' Resmi Meluncur di Indonesia",
+    "deskripsi": "Aplikasi dompet digital baru ini menawarkan biaya transfer nol rupiah untuk semua pengguna.",
+    "gambar": "https://images.pexels.com/photos/4968391/pexels-photo-4968391.jpeg",
+    "link": "https://hadinnews.id/teknologi/payfast-rilis"
   },
   {
-    "judul": "PLN Umumkan Program Diskon Listrik Akhir Tahun",
-    "deskripsi": "PLN memberikan potongan tarif listrik untuk pelanggan rumah tangga dalam rangka mendorong efisiensi energi nasional.",
-    "gambar": "https://images.pexels.com/photos/258416/pexels-photo-258416.jpeg",
-    "link": "https://hadinnews.id/nasional/pln-diskon"
+    "judul": "PLN Umumkan Pemeliharaan Listrik Terjadwal Akhir Pekan Ini",
+    "deskripsi": "Beberapa wilayah di Bekasi Timur akan mengalami pemadaman sementara selama proses perbaikan jaringan.",
+    "gambar": "https://images.pexels.com/photos/258192/pexels-photo-258192.jpeg",
+    "link": "https://hadinnews.id/nasional/pln-pemeliharaan"
   },
   {
-    "judul": "Turnamen Esport Nasional Resmi Dibuka di Jakarta",
-    "deskripsi": "Kompetisi esport terbesar di Indonesia resmi dimulai dengan ratusan peserta dari berbagai daerah.",
-    "gambar": "https://images.pexels.com/photos/1150226/pexels-photo-1150226.jpeg",
-    "link": "https://hadinnews.id/olahraga/esport-turnamen"
+    "judul": "Turnamen Mobile Legends Nasional Dimulai dengan 32 Tim",
+    "deskripsi": "Kompetisi tahun ini diprediksi menjadi yang paling sengit dengan banyaknya tim baru bermunculan.",
+    "gambar": "https://images.pexels.com/photos/7862591/pexels-photo-7862591.jpeg",
+    "link": "https://hadinnews.id/esport/mlbb-turnamen"
   },
   {
-    "judul": "AI Kini Dapat Membuat Musik Sendiri",
-    "deskripsi": "Teknologi AI generatif kini mampu menciptakan musik orisinal tanpa campur tangan manusia.",
-    "gambar": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg",
-    "link": "https://hadinnews.id/teknologi/ai-musik"
+    "judul": "Teknologi AI Musik Semakin Populer di Kalangan Kreator",
+    "deskripsi": "Musisi muda mulai memanfaatkan AI untuk menciptakan nada dan aransemen unik.",
+    "gambar": "https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg",
+    "link": "https://hadinnews.id/teknologi/ai-music-2025"
   },
   {
-    "judul": "Bekasi Luncurkan Program Kota Hijau",
-    "deskripsi": "Pemerintah Kota Bekasi meluncurkan program penghijauan massal dengan target 10 ribu pohon baru di 2025.",
-    "gambar": "https://images.pexels.com/photos/1405834/pexels-photo-1405834.jpeg",
-    "link": "https://hadinnews.id/nasional/kota-hijau-bekasi"
+    "judul": "Bekasi Gelar Program Penanaman 5.000 Pohon Baru",
+    "deskripsi": "Program penghijauan ini ditargetkan selesai dalam waktu satu bulan di 12 kecamatan.",
+    "gambar": "https://images.pexels.com/photos/576090/pexels-photo-576090.jpeg",
+    "link": "https://hadinnews.id/nasional/penanaman-pohon-bekasi"
   },
   {
-    "judul": "Startup Lokal Dapat Pendanaan Rp 50 Miliar",
-    "deskripsi": "Perusahaan rintisan bidang agritech asal Yogyakarta mendapat suntikan dana untuk ekspansi ke Asia Tenggara.",
-    "gambar": "https://images.pexels.com/photos/3183171/pexels-photo-3183171.jpeg",
-    "link": "https://hadinnews.id/ekonomi/startup-agritech"
+    "judul": "Harga Telur Ayam Turun Drastis di Pasar Tradisional",
+    "deskripsi": "Pedagang menyebutkan turunnya harga terjadi karena peningkatan suplai dari peternak lokal.",
+    "gambar": "https://images.pexels.com/photos/4791671/pexels-photo-4791671.jpeg",
+    "link": "https://hadinnews.id/ekonomi/harga-telur-turun"
   },
   {
-    "judul": "Jalan Tol Baru Jakarta–Bogor Diresmikan",
-    "deskripsi": "Tol sepanjang 27 km ini diharapkan mengurangi kemacetan dan mempercepat waktu tempuh hingga 30%.",
-    "gambar": "https://images.pexels.com/photos/210661/pexels-photo-210661.jpeg",
-    "link": "https://hadinnews.id/nasional/tol-jakarta-bogor"
+    "judul": "Proyek Kereta Cepat Tahap Dua Mulai Dikerjakan",
+    "deskripsi": "Tahap kedua akan memperluas jaringan hingga ke Bandung Timur dengan jalur tambahan 15 km.",
+    "gambar": "https://images.pexels.com/photos/1578269/pexels-photo-1578269.jpeg",
+    "link": "https://hadinnews.id/nasional/kereta-cepat"
   },
   {
-    "judul": "Timnas U-20 Siap Hadapi Piala Asia",
-    "deskripsi": "Skuad muda Indonesia menjalani pemusatan latihan di Turki sebagai persiapan menghadapi kejuaraan Asia.",
-    "gambar": "https://images.pexels.com/photos/3991878/pexels-photo-3991878.jpeg",
-    "link": "https://hadinnews.id/olahraga/timnas-u20"
+    "judul": "Mahasiswa Indonesia Ciptakan Robot Pembersih Sungai",
+    "deskripsi": "Robot ini mampu mengumpulkan sampah secara otomatis dan mengirimkan data kualitas air secara real-time.",
+    "gambar": "https://images.pexels.com/photos/1105379/pexels-photo-1105379.jpeg",
+    "link": "https://hadinnews.id/teknologi/robot-sungai"
   },
   {
-    "judul": "Teknologi Satelit Dukung Pemantauan Cuaca Ekstrem",
-    "deskripsi": "BMKG mulai menggunakan satelit baru untuk memperkirakan potensi cuaca ekstrem lebih akurat.",
-    "gambar": "https://images.pexels.com/photos/260690/pexels-photo-260690.jpeg",
-    "link": "https://hadinnews.id/teknologi/satelit-cuaca"
+    "judul": "Festival Musik Outdoor di Jakarta Dipadati Pengunjung",
+    "deskripsi": "Acara tersebut menampilkan berbagai musisi lokal dan internasional dengan tema summer vibes.",
+    "gambar": "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg",
+    "link": "https://hadinnews.id/hiburan/festival-musik"
   },
   {
-    "judul": "Harga Tiket Pesawat Turun Menjelang Libur Natal",
-    "deskripsi": "Beberapa maskapai mulai menurunkan harga tiket pesawat domestik untuk menarik minat wisatawan.",
-    "gambar": "https://images.pexels.com/photos/325521/pexels-photo-325521.jpeg",
-    "link": "https://hadinnews.id/ekonomi/tiket-pesawat"
+    "judul": "Ekspor Buah Tropis Indonesia Naik 8 Persen Tahun Ini",
+    "deskripsi": "Durian, manggis, dan nanas menjadi komoditas paling diminati pasar luar negeri.",
+    "gambar": "https://images.pexels.com/photos/615666/pexels-photo-615666.jpeg",
+    "link": "https://hadinnews.id/ekonomi/ekspor-buah"
   },
   {
-    "judul": "Festival Kuliner Nusantara Ramai Dikunjungi",
-    "deskripsi": "Ratusan warga antusias menghadiri festival kuliner yang menampilkan makanan khas dari berbagai daerah.",
-    "gambar": "https://images.pexels.com/photos/302680/pexels-photo-302680.jpeg",
-    "link": "https://hadinnews.id/gaya-hidup/festival-kuliner"
+    "judul": "Polisi Bekasi Bongkar Kasus Penipuan Marketplace",
+    "deskripsi": "Pelaku menggunakan modus barang elektronik murah untuk menarik korban.",
+    "gambar": "https://images.pexels.com/photos/14514423/pexels-photo-14514423.jpeg",
+    "link": "https://hadinnews.id/hukum/penipuan-marketplace"
   },
   {
-    "judul": "Polisi Tangkap Sindikat Penipuan Online",
-    "deskripsi": "Polda Metro Jaya berhasil mengamankan 12 pelaku penipuan daring yang beroperasi lintas provinsi.",
-    "gambar": "https://images.pexels.com/photos/257840/pexels-photo-257840.jpeg",
-    "link": "https://hadinnews.id/hukum/penipuan-online"
+    "judul": "Aplikasi Tracking Sampah Pintar Masuk Tahap Uji Coba",
+    "deskripsi": "Pemerintah Bekasi mencoba teknologi baru untuk memantau volume sampah di TPS.",
+    "gambar": "https://images.pexels.com/photos/3735431/pexels-photo-3735431.jpeg",
+    "link": "https://hadinnews.id/teknologi/tracking-sampah"
   },
   {
-    "judul": "Mahasiswa Ciptakan Aplikasi Pemantau Sampah",
-    "deskripsi": "Inovasi baru dari mahasiswa Surabaya ini mampu mendeteksi volume sampah di kota secara real-time.",
-    "gambar": "https://images.pexels.com/photos/3735430/pexels-photo-3735430.jpeg",
-    "link": "https://hadinnews.id/teknologi/aplikasi-sampah"
+    "judul": "Industri Kopi Lokal Catat Pertumbuhan Penjualan 2025",
+    "deskripsi": "Kedai kopi kecil mulai mendominasi pasar dengan konsep unik dan harga terjangkau.",
+    "gambar": "https://images.pexels.com/photos/268245/pexels-photo-268245.jpeg",
+    "link": "https://hadinnews.id/ekonomi/kopi-lokal"
   },
   {
-    "judul": "Ekspor Kopi Indonesia Naik 12 Persen",
-    "deskripsi": "Kopi asal Sumatera dan Sulawesi menjadi primadona ekspor tahun ini berkat peningkatan kualitas biji kopi.",
-    "gambar": "https://images.pexels.com/photos/302895/pexels-photo-302895.jpeg",
-    "link": "https://hadinnews.id/ekonomi/kopi-indonesia"
+    "judul": "Film Aksi Baru Indonesia Sukses di Minggu Pertama",
+    "deskripsi": "Film tersebut meraup lebih dari 600 ribu penonton hanya dalam lima hari penayangan.",
+    "gambar": "https://images.pexels.com/photos/799156/pexels-photo-799156.jpeg",
+    "link": "https://hadinnews.id/hiburan/film-aksi"
   },
   {
-    "judul": "Film Lokal Terbaru Raup 2 Juta Penonton",
-    "deskripsi": "Film komedi romantis karya anak bangsa berhasil menembus rekor baru di bioskop nasional.",
-    "gambar": "https://images.pexels.com/photos/3934882/pexels-photo-3934882.jpeg",
-    "link": "https://hadinnews.id/hiburan/film-lokal"
+    "judul": "Komunitas Sepeda Bekasi Gelar Gowes Akbar 2025",
+    "deskripsi": "Ribuan pesepeda ikut serta dalam acara gowes sejauh 25 km di sepanjang Kota Bekasi.",
+    "gambar": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg",
+    "link": "https://hadinnews.id/gaya-hidup/gowes-bekasi"
+  },
+  {
+    "judul": "Riset Baru Ungkap Potensi Energi Angin di Pantai Utara Jawa",
+    "deskripsi": "Peneliti menemukan titik angin stabil yang cocok untuk pengembangan turbin besar.",
+    "gambar": "https://images.pexels.com/photos/532192/pexels-photo-532192.jpeg",
+    "link": "https://hadinnews.id/sains/energi-angin"
   }
 ]
