@@ -1,128 +1,122 @@
 [
   {
-    "judul": "Hujan Lebat Disertai Angin Kencang Terjang Bekasi Malam Ini",
-    "deskripsi": "Cuaca ekstrem kembali melanda wilayah Bekasi dengan hujan deras disertai angin kencang yang menyebabkan beberapa pohon tumbang.",
-    "gambar": "https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg",
-    "link": "https://hadinnews.id/cuaca/badai-bekasi"
+    "title": "Pemkot Bekasi Uji Coba Lampu Lalu Lintas Pintar di 3 Titik Padat",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/1011/800/500",
+    "summary": "Sistem lampu lalu lintas otomatis berbasis AI mulai diuji coba di tiga kawasan padat kendaraan. Teknologi ini diklaim mampu mengurangi kemacetan hingga 20%."
   },
   {
-    "judul": "Penggunaan AI di Sekolah Meningkat Tajam Pada 2025",
-    "deskripsi": "Sejumlah sekolah di Jakarta dan Bekasi mulai menerapkan AI sebagai alat bantu pembelajaran harian.",
-    "gambar": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
-    "link": "https://hadinnews.id/teknologi/ai-di-sekolah"
+    "title": "Harga Beras Stabil Jelang Akhir Tahun, Pedagang Mulai Lega",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/1028/800/500",
+    "summary": "Setelah sempat naik selama dua bulan terakhir, harga beras di pasar tradisional mulai mengalami stabilisasi."
   },
   {
-    "judul": "Timnas Indonesia U-23 Berhasil Lolos ke Final Turnamen Asia",
-    "deskripsi": "Skuad muda Indonesia tampil gemilang dan memastikan tempat di final setelah menang 2-1 di babak semifinal.",
-    "gambar": "https://images.pexels.com/photos/3991876/pexels-photo-3991876.jpeg",
-    "link": "https://hadinnews.id/olahraga/timnas-u23-final"
+    "title": "Jembatan Baru di Babelan Mulai Dibuka untuk Umum",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/1043/800/500",
+    "summary": "Jembatan penghubung baru di Kecamatan Babelan resmi dibuka hari ini, mempersingkat waktu tempuh hingga 15 menit."
   },
   {
-    "judul": "Startup Energi Terbarukan Indonesia Dilirik Investor Global",
-    "deskripsi": "Perusahaan rintisan yang fokus pada panel surya rumah tangga menarik pendanaan dari Jepang dan Singapura.",
-    "gambar": "https://images.pexels.com/photos/987544/pexels-photo-987544.jpeg",
-    "link": "https://hadinnews.id/ekonomi/startup-energi"
+    "title": "Pengembang Lokal Rilis Aplikasi Pembelajaran Berbasis AR",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/1050/800/500",
+    "summary": "Aplikasi augmented reality karya pemuda Indonesia mulai menarik perhatian siswa dan guru."
   },
   {
-    "judul": "Jalan Raya Siliwangi Bekasi Alami Kemacetan Parah Pagi Ini",
-    "deskripsi": "Antrian panjang kendaraan terjadi akibat truk mogok di tengah jalur utama menuju Jakarta.",
-    "gambar": "https://images.pexels.com/photos/210182/pexels-photo-210182.jpeg",
-    "link": "https://hadinnews.id/lalu-lintas/siliwangi-macet"
+    "title": "Cuaca Ekstrem Diprediksi Berlanjut, Warga Diminta Waspada",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/1062/800/500",
+    "summary": "BMKG memperingatkan potensi hujan lebat disertai angin kencang di sejumlah wilayah."
   },
   {
-    "judul": "Aplikasi Pembayaran Baru 'PayFast' Resmi Meluncur di Indonesia",
-    "deskripsi": "Aplikasi dompet digital baru ini menawarkan biaya transfer nol rupiah untuk semua pengguna.",
-    "gambar": "https://images.pexels.com/photos/4968391/pexels-photo-4968391.jpeg",
-    "link": "https://hadinnews.id/teknologi/payfast-rilis"
+    "title": "Turnamen Mobile Game Antar Pelajar Resmi Dimulai",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/1084/800/500",
+    "summary": "Turnamen tingkat pelajar diikuti lebih dari 300 tim dari berbagai sekolah."
   },
   {
-    "judul": "PLN Umumkan Pemeliharaan Listrik Terjadwal Akhir Pekan Ini",
-    "deskripsi": "Beberapa wilayah di Bekasi Timur akan mengalami pemadaman sementara selama proses perbaikan jaringan.",
-    "gambar": "https://images.pexels.com/photos/258192/pexels-photo-258192.jpeg",
-    "link": "https://hadinnews.id/nasional/pln-pemeliharaan"
+    "title": "Kawasan Industri Bekasi Tambah Lapangan Kerja Baru",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/1015/800/500",
+    "summary": "Perluasan pabrik baru diprediksi membuka ribuan peluang kerja di sektor manufaktur."
   },
   {
-    "judul": "Turnamen Mobile Legends Nasional Dimulai dengan 32 Tim",
-    "deskripsi": "Kompetisi tahun ini diprediksi menjadi yang paling sengit dengan banyaknya tim baru bermunculan.",
-    "gambar": "https://images.pexels.com/photos/7862591/pexels-photo-7862591.jpeg",
-    "link": "https://hadinnews.id/esport/mlbb-turnamen"
+    "title": "Penelitian Baru Ungkap Potensi Energi Surya di Indonesia",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/1025/800/500",
+    "summary": "Tim peneliti memaparkan bahwa potensi energi surya nasional mencapai tiga kali kebutuhan listrik saat ini."
   },
   {
-    "judul": "Teknologi AI Musik Semakin Populer di Kalangan Kreator",
-    "deskripsi": "Musisi muda mulai memanfaatkan AI untuk menciptakan nada dan aransemen unik.",
-    "gambar": "https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg",
-    "link": "https://hadinnews.id/teknologi/ai-music-2025"
+    "title": "Komunitas Pemuda Adakan Gerakan Tanam Pohon Massal",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/103/800/500",
+    "summary": "Lebih dari 1.000 bibit pohon ditanam di berbagai area ruang hijau."
   },
   {
-    "judul": "Bekasi Gelar Program Penanaman 5.000 Pohon Baru",
-    "deskripsi": "Program penghijauan ini ditargetkan selesai dalam waktu satu bulan di 12 kecamatan.",
-    "gambar": "https://images.pexels.com/photos/576090/pexels-photo-576090.jpeg",
-    "link": "https://hadinnews.id/nasional/penanaman-pohon-bekasi"
+    "title": "Sistem Parkir Digital Mulai Diterapkan di Kota-Kota Besar",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/110/800/500",
+    "summary": "Pengguna dapat memesan slot parkir melalui aplikasi dan membayar tanpa uang tunai."
   },
   {
-    "judul": "Harga Telur Ayam Turun Drastis di Pasar Tradisional",
-    "deskripsi": "Pedagang menyebutkan turunnya harga terjadi karena peningkatan suplai dari peternak lokal.",
-    "gambar": "https://images.pexels.com/photos/4791671/pexels-photo-4791671.jpeg",
-    "link": "https://hadinnews.id/ekonomi/harga-telur-turun"
+    "title": "Startup Lokal Rilis Robot Pembersih Lantai untuk Rumah Tangga",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/180/800/500",
+    "summary": "Robot otonom ini diklaim mampu mendeteksi kotoran lebih akurat menggunakan sensor lidar."
   },
   {
-    "judul": "Proyek Kereta Cepat Tahap Dua Mulai Dikerjakan",
-    "deskripsi": "Tahap kedua akan memperluas jaringan hingga ke Bandung Timur dengan jalur tambahan 15 km.",
-    "gambar": "https://images.pexels.com/photos/1578269/pexels-photo-1578269.jpeg",
-    "link": "https://hadinnews.id/nasional/kereta-cepat"
+    "title": "Laju Inflasi Melambat, Pasar Modern Mulai Ramai",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/237/800/500",
+    "summary": "Aktivitas belanja masyarakat berangsur pulih setelah beberapa bulan mengalami penurunan."
   },
   {
-    "judul": "Mahasiswa Indonesia Ciptakan Robot Pembersih Sungai",
-    "deskripsi": "Robot ini mampu mengumpulkan sampah secara otomatis dan mengirimkan data kualitas air secara real-time.",
-    "gambar": "https://images.pexels.com/photos/1105379/pexels-photo-1105379.jpeg",
-    "link": "https://hadinnews.id/teknologi/robot-sungai"
+    "title": "Festival Kuliner Nusantara Hadirkan 150 Menu Unik",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/292/800/500",
+    "summary": "Festival tahunan ini kembali digelar, menarik minat ribuan pengunjung."
   },
   {
-    "judul": "Festival Musik Outdoor di Jakarta Dipadati Pengunjung",
-    "deskripsi": "Acara tersebut menampilkan berbagai musisi lokal dan internasional dengan tema summer vibes.",
-    "gambar": "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg",
-    "link": "https://hadinnews.id/hiburan/festival-musik"
+    "title": "Startup Edutech Ajak Pelajar Belajar Coding Secara Gratis",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/301/800/500",
+    "summary": "Program ini menargetkan 50 ribu pelajar untuk mengasah kemampuan digital."
   },
   {
-    "judul": "Ekspor Buah Tropis Indonesia Naik 8 Persen Tahun Ini",
-    "deskripsi": "Durian, manggis, dan nanas menjadi komoditas paling diminati pasar luar negeri.",
-    "gambar": "https://images.pexels.com/photos/615666/pexels-photo-615666.jpeg",
-    "link": "https://hadinnews.id/ekonomi/ekspor-buah"
+    "title": "Perbaikan Jalan Utama di Tambun Ditargetkan Selesai Bulan Ini",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/381/800/500",
+    "summary": "Warga menyambut positif karena perbaikan jalan sudah lama dinantikan."
   },
   {
-    "judul": "Polisi Bekasi Bongkar Kasus Penipuan Marketplace",
-    "deskripsi": "Pelaku menggunakan modus barang elektronik murah untuk menarik korban.",
-    "gambar": "https://images.pexels.com/photos/14514423/pexels-photo-14514423.jpeg",
-    "link": "https://hadinnews.id/hukum/penipuan-marketplace"
+    "title": "Perpustakaan Digital Baru Diperkenalkan untuk Pelajar SMA/SMK",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/433/800/500",
+    "summary": "Perpustakaan digital menyediakan ribuan buku gratis yang bisa diakses secara online."
   },
   {
-    "judul": "Aplikasi Tracking Sampah Pintar Masuk Tahap Uji Coba",
-    "deskripsi": "Pemerintah Bekasi mencoba teknologi baru untuk memantau volume sampah di TPS.",
-    "gambar": "https://images.pexels.com/photos/3735431/pexels-photo-3735431.jpeg",
-    "link": "https://hadinnews.id/teknologi/tracking-sampah"
+    "title": "Tim Riset Buat Prototipe Drone Pengantar Barang",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/450/800/500",
+    "summary": "Drone ini mampu membawa beban hingga 5 kilogram dan terbang sejauh 20 kilometer."
   },
   {
-    "judul": "Industri Kopi Lokal Catat Pertumbuhan Penjualan 2025",
-    "deskripsi": "Kedai kopi kecil mulai mendominasi pasar dengan konsep unik dan harga terjangkau.",
-    "gambar": "https://images.pexels.com/photos/268245/pexels-photo-268245.jpeg",
-    "link": "https://hadinnews.id/ekonomi/kopi-lokal"
+    "title": "Pemerintah Daerah Dorong UMKM Beralih ke Pembayaran Digital",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/501/800/500",
+    "summary": "Pelatihan diberikan secara gratis untuk meningkatkan literasi digital pelaku usaha."
   },
   {
-    "judul": "Film Aksi Baru Indonesia Sukses di Minggu Pertama",
-    "deskripsi": "Film tersebut meraup lebih dari 600 ribu penonton hanya dalam lima hari penayangan.",
-    "gambar": "https://images.pexels.com/photos/799156/pexels-photo-799156.jpeg",
-    "link": "https://hadinnews.id/hiburan/film-aksi"
+    "title": "Pelajar Berprestasi Asal Bekasi Raih Penghargaan Nasional",
+    "date": "2025-11-14",
+    "image": "httpsum.photos/id/821/800/500",
+    "summary": "Siswa tersebut berhasil memenangkan lomba inovasi teknologi tingkat nasional."
   },
   {
-    "judul": "Komunitas Sepeda Bekasi Gelar Gowes Akbar 2025",
-    "deskripsi": "Ribuan pesepeda ikut serta dalam acara gowes sejauh 25 km di sepanjang Kota Bekasi.",
-    "gambar": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg",
-    "link": "https://hadinnews.id/gaya-hidup/gowes-bekasi"
-  },
-  {
-    "judul": "Riset Baru Ungkap Potensi Energi Angin di Pantai Utara Jawa",
-    "deskripsi": "Peneliti menemukan titik angin stabil yang cocok untuk pengembangan turbin besar.",
-    "gambar": "https://images.pexels.com/photos/532192/pexels-photo-532192.jpeg",
-    "link": "https://hadinnews.id/sains/energi-angin"
+    "title": "Aplikasi Transportasi Umum Tambahkan Fitur Rute Cerdas",
+    "date": "2025-11-14",
+    "image": "https://picsum.photos/id/932/800/500",
+    "summary": "Fitur baru memungkinkan pengguna mendapatkan rute tercepat berdasarkan kondisi jalan real-time."
   }
 ]
