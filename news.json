@@ -1,182 +1,268 @@
 [
   {
-    "title": "Bekasi Terapkan Sistem Peringatan Dini Banjir Berbasis Sensor",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/201/800/500",
-    "summary": "Sensor dipasang di beberapa titik rawan banjir untuk memantau kenaikan air secara real-time."
+    "title": "Hujan Lebat Guyur Bekasi, Sejumlah Jalan Terendam",
+    "description": "Hujan deras sejak sore membuat beberapa titik di Bekasi terendam hingga 40 cm.",
+    "image": "https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Pelajar RPL Bekasi Buat Website Sekolah Generasi Baru",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/202/800/500",
-    "summary": "Website buatan siswa memungkinkan guru memantau tugas dan kegiatan kelas lebih cepat."
+    "title": "Penggunaan AI di Sekolah Bekasi Meningkat Pesat",
+    "description": "Banyak sekolah mulai menerapkan kecerdasan buatan untuk membantu proses belajar.",
+    "image": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Harga BBM Diprediksi Stabil Jelang Akhir Tahun",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/203/800/500",
-    "summary": "Pemerintah memastikan tidak ada kenaikan harga hingga Desember."
+    "title": "Harga Beras Stabil Setelah Pemerintah Gelar Operasi Pasar",
+    "description": "Operasi pasar berhasil menahan kenaikan harga pangan di wilayah Jawa Barat.",
+    "image": "https://images.pexels.com/photos/4197863/pexels-photo-4197863.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Pembangunan Underpass Baru Ditargetkan Selesai Tahun Depan",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/204/800/500",
-    "summary": "Underpass ini diharapkan mengurangi kemacetan di jalur padat Bekasi Barat."
+    "title": "Timnas Indonesia U-23 Siap Hadapi Final Turnamen Asia",
+    "description": "Skuad Garuda Muda menjalani latihan intensif menjelang babak final.",
+    "image": "https://images.pexels.com/photos/3991876/pexels-photo-3991876.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Festival Kuliner Bekasi Tampilkan Menu Nusantara",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/205/800/500",
-    "summary": "Ratusan UMKM makanan menghadirkan menu khas dari berbagai daerah Indonesia."
+    "title": "Startup Energi Terbarukan Indonesia Tarik Minat Investor Jepang",
+    "description": "Perusahaan rintisan asal Bandung ini mendapat pendanaan baru dari Asia Timur.",
+    "image": "httpsimages.pexels.com/photos/987544/pexels-photo-987544.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Perusahaan Teknologi Luncurkan Laptop Edukasi Murah",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/206/800/500",
-    "summary": "Laptop ini menyasar pelajar dengan harga ramah kantong dan fitur lengkap."
+    "title": "Lalu Lintas Bekasi Macet Parah Akibat Truk Mogok",
+    "description": "Truk muatan berat mogok di tengah Jalan Ahmad Yani menyebabkan antrean panjang.",
+    "image": "https://images.pexels.com/photos/210182/pexels-photo-210182.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Bekasi Perkuat Tim Satgas Sampah untuk Hadapi Musim Hujan",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/207/800/500",
-    "summary": "Petugas ditambah untuk membersihkan saluran air dan TPS di wilayah rawan."
+    "title": "Aplikasi Dompet Digital Baru 'PayFast' Resmi Rilis",
+    "description": "PayFast menawarkan biaya transfer gratis untuk semua transaksi awal pengguna.",
+    "image": "https://images.pexels.com/photos/4968391/pexels-photo-4968391.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Komunitas Anime Bekasi Gelar Gathering Besar di Summarecon",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/208/800/500",
-    "summary": "Event cosplay dan bazar merchandise menarik ratusan peserta."
+    "title": "PLN Umumkan Pemeliharaan Listrik Sejumlah Wilayah",
+    "description": "Pemadaman sementara dijadwalkan untuk peningkatan kualitas jaringan.",
+    "image": "https://images.pexels.com/photos/258192/pexels-photo-258192.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Sinyal 5G Kini Tersedia di 70% Wilayah Bekasi",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/209/800/500",
-    "summary": "Perluasan jaringan 5G dilakukan operator untuk meningkatkan kualitas internet."
+    "title": "Turnamen Mobile Legends Nasional Resmi Dimulai",
+    "description": "Sebanyak 32 tim esports terbaik siap bertarung dalam kompetisi bergengsi.",
+    "image": "https://images.pexels.com/photos/7862591/pexels-photo-7862591.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "UMKM Bekasi Naik Kelas Lewat Pelatihan Digital Marketing",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/210/800/500",
-    "summary": "Pelatihan fokus pada cara memanfaatkan media sosial untuk penjualan."
+    "title": "Teknologi AI Musik Semakin Diminati Kreator Muda",
+    "description": "Banyak musisi memanfaatkan AI untuk membuat aransemen unik.",
+    "image": "https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg",
+    "date": "2025-11-14"
+  },
+
+  {
+    "title": "Program Penanaman Pohon di Bekasi Dimulai Hari Ini",
+    "description": "Target 5.000 pohon ditanam di 12 kecamatan dalam kurun satu bulan.",
+    "image": "https://images.pexels.com/photos/576090/pexels-photo-576090.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Smart CCTV Dipasang di 25 Titik Rawan Kriminalitas",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/211/800/500",
-    "summary": "CCTV berbasis AI ini mampu mendeteksi kejadian mencurigakan."
+    "title": "Harga Telur Turun di Pasar Tradisional",
+    "description": "Penurunan harga terjadi akibat meningkatnya suplai dari peternak lokal.",
+    "image": "https://images.pexels.com/photos/4791671/pexels-photo-4791671.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Bekasi Gelar Lomba Start-Up Pelajar Se-Jawa Barat",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/212/800/500",
-    "summary": "Kompetisi bertujuan mendorong kreativitas siswa di bidang teknologi."
+    "title": "Proyek Kereta Cepat Tahap Dua Dimulai",
+    "description": "Ekspansi jalur kereta cepat akan mencapai Bandung Timur.",
+    "image": "https://images.pexels.com/photos/1578269/pexels-photo-1578269.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Produksi Beras Daerah Meningkat Akibat Cuaca Baik",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/213/800/500",
-    "summary": "Panen tahun ini melampaui target dan menekan harga beras."
+    "title": "Mahasiswa Indonesia Kembangkan Robot Pembersih Sungai",
+    "description": "Robot otomatis ini mampu mendeteksi kualitas air secara real-time.",
+    "image": "https://images.pexels.com/photos/1105379/pexels-photo-1105379.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Event Lari Bekasi 10K Sukses Diikuti Ribuan Peserta",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/214/800/500",
-    "summary": "Acara berlangsung meriah dengan rute yang melewati ikon kota."
+    "title": "Festival Musik Outdoor Dipadati Ribuan Penonton",
+    "description": "Event musik bertema summer vibes sukses menarik minat pengunjung.",
+    "image": "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Sekolah Terapkan Sistem Presensi QR Code untuk Semua Kelas",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/215/800/500",
-    "summary": "Sistem baru memudahkan pencatatan kehadiran tanpa antre."
+    "title": "Ekspor Buah Tropis Indonesia Meningkat 8 Persen",
+    "description": "Durian dan manggis menjadi komoditas unggulan di pasar global.",
+    "image": "https://images.pexels.com/photos/615666/pexels-photo-615666.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Perpustakaan Bekasi Hadirkan Ruang Belajar 24 Jam",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/216/800/500",
-    "summary": "Fasilitas baru ini ditujukan untuk pelajar dan mahasiswa."
+    "title": "Polisi Ungkap Kasus Penipuan Marketplace Bekasi",
+    "description": "Modus pelaku adalah menjual barang elektronik murah palsu.",
+    "image": "https://images.pexels.com/photos/14514423/pexels-photo-14514423.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Peningkatan Jalur Sepeda Mulai Dikerjakan Pemerintah Kota",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/217/800/500",
-    "summary": "Jalur sepeda baru direncanakan menyambungkan beberapa kecamatan."
+    "title": "Aplikasi Tracking Sampah Mulai Diuji Coba",
+    "description": "Pemerintah mulai menerapkan teknologi untuk memonitor volume sampah.",
+    "image": "https://images.pexels.com/photos/3735431/pexels-photo-3735431.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Layanan Telemedicine di Bekasi Tumbuh 40 Persen",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/218/800/500",
-    "summary": "Warga makin tertarik memanfaatkan konsultasi kesehatan daring."
+    "title": "Penjualan Kopi Lokal Meningkat Tajam Tahun Ini",
+    "description": "Kedai kopi kecil banyak bermunculan di berbagai kota besar.",
+    "image": "https://images.pexels.com/photos/268245/pexels-photo-268245.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Pasar Malam Mega Bekasi Ramai Dikunjungi Wisatawan Lokal",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/219/800/500",
-    "summary": "Pasar malam menawarkan wahana, makanan, dan hiburan keluarga."
+    "title": "Film Aksi Baru Indonesia Tembus 600 Ribu Penonton",
+    "description": "Film lokal terbaru sukses besar di minggu pertama.",
+    "image": "https://images.pexels.com/photos/799156/pexels-photo-799156.jpeg",
+    "date": "2025-11-14"
+  },
+
+  {
+    "title": "Komunitas Sepeda Gelar Gowes Akbar",
+    "description": "Ratusan peserta mengikuti gowes sejauh 25 km di Bekasi.",
+    "image": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Puskesmas di Bekasi Tambah Layanan Konseling Remaja",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/220/800/500",
-    "summary": "Layanan ini fokus pada kesehatan mental dan edukasi dini."
+    "title": "Riset Ungkap Potensi Angin di Pantai Utara Jawa",
+    "description": "Peneliti menemukan titik angin stabil ideal untuk turbin.",
+    "image": "https://images.pexels.com/photos/532192/pexels-photo-532192.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Transportasi Umum Ditambah untuk Antisipasi Libur Akhir Tahun",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/221/800/500",
-    "summary": "Tambahan armada disiapkan untuk mengurangi kepadatan."
+    "title": "Pemerintah Kembangkan Kota Pintar di Jabodetabek",
+    "description": "Proyek smart city difokuskan pada data transportasi dan keamanan.",
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Siswa SMK Taruna Bangsa Menangkan Lomba Robotik Tingkat Kota",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/222/800/500",
-    "summary": "Tim robotik sekolah berhasil mengalahkan 16 tim lainnya."
+    "title": "Harga Gadget Baru Diprediksi Turun Akhir Tahun",
+    "description": "Beberapa brand menyiapkan diskon besar menjelang libur panjang.",
+    "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Pedagang Kaki Lima Dapat Edukasi Pengelolaan Limbah",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/223/800/500",
-    "summary": "Program ini mendorong pengurangan sampah plastik di lingkungan."
+    "title": "Inovasi Baterai Mobil Listrik Buatan Indonesia Diuji Coba",
+    "description": "Baterai baru diklaim bisa bertahan hingga 800 km sekali charge.",
+    "image": "https://images.pexels.com/photos/1571780/pexels-photo-1571780.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Bandara Kertajati Tambah Rute Domestik Baru",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/224/800/500",
-    "summary": "Rute baru diharapkan mempercepat konektivitas wilayah Bekasi dan sekitarnya."
+    "title": "Penjualan Online Meningkat 20 Persen di Q4 2025",
+    "description": "Kenaikan dipengaruhi promo akhir tahun dan event belanja online.",
+    "image": "https://images.pexels.com/photos/5632405/pexels-photo-5632405.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Jembatan Layang Baru Akan Dilengkapi Panel Surya",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/225/800/500",
-    "summary": "Panel surya membantu memberi daya untuk lampu penerangan jembatan."
+    "title": "Fenomena Cuaca Ekstrem Diprediksi Terjadi Pekan Ini",
+    "description": "BMKG mengimbau masyarakat waspada perubahan cuaca tiba-tiba.",
+    "image": "https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Pusat Belanja Bekasi Adakan Diskon Besar Menjelang Akhir Tahun",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/226/800/500",
-    "summary": "Diskon hingga 70% menarik banyak pengunjung datang."
+    "title": "Bandara Soekarno-Hatta Tambah Gate Baru",
+    "description": "Penambahan fasilitas dilakukan untuk mengurangi kepadatan penumpang.",
+    "image": "https://images.pexels.com/photos/358319/pexels-photo-358319.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Workshop Video Editing untuk Pelajar Dibuka Gratis",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/227/800/500",
-    "summary": "Pemateri mengajarkan dasar-dasar editing hingga teknik cinematography."
+    "title": "BKD Bekasi Buka Lowongan Tenaga IT",
+    "description": "Pendaftaran dibuka hingga akhir bulan dengan kuota terbatas.",
+    "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Polisi Ungkap Kasus Penjualan Motor Bodong di Bekasi",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/228/800/500",
-    "summary": "Pelaku berhasil ditangkap beserta barang bukti enam motor ilegal."
+    "title": "Kebakaran Gudang Plastik Ditangani 10 Mobil Damkar",
+    "description": "Asap tebal terlihat membumbung namun tidak ada korban jiwa.",
+    "image": "https://images.pexels.com/photos/461757/pexels-photo-461757.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Penggunaan Energi Listrik di Rumah Tangga Menurun 10 Persen",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/229/800/500",
-    "summary": "Program hemat listrik mulai menunjukkan hasil positif."
+    "title": "Produksi Beras Nasional Meningkat 6 Persen",
+    "description": "Kenaikan produksi terjadi setelah daerah memperluas lahan tanam.",
+    "image": "https://images.pexels.com/photos/4198066/pexels-photo-4198066.jpeg",
+    "date": "2025-11-14"
   },
   {
-    "title": "Bekasi Tambah Area Wi-Fi Gratis di Taman Kota",
-    "date": "2025-11-14",
-    "image": "https://picsum.photos/id/230/800/500",
-    "summary": "Penambahan akses internet gratis membantu pelajar belajar di luar rumah."
+    "title": "Penggemar Antusias Menunggu Konser Besar di GBK",
+    "description": "Konser musisi dunia akan digelar pekan depan.",
+    "image": "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Kemacetan Tol Jakarta-Cikampek Capai 8 Km",
+    "description": "Volume kendaraan meningkat tajam akibat libur panjang.",
+    "image": "https://images.pexels.com/photos/240223/pexels-photo-240223.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Aplikasi Chat AI Lokal Tembus 1 Juta Pengguna",
+    "description": "Aplikasi buatan anak bangsa menarik perhatian dunia.",
+    "image": "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Pameran Teknologi Jakarta Dipenuhi Startup Baru",
+    "description": "Inovasi di bidang AI dan IoT mendominasi booth peserta.",
+    "image": "https://images.pexels.com/photos/1181332/pexels-photo-1181332.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Wisata Kuliner Bekasi Tawarkan Menu Baru",
+    "description": "Banyak UMKM kuliner memperkenalkan hidangan fusion unik.",
+    "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Pemerintah Rilis Aturan Baru Kendaraan Listrik",
+    "description": "Subsidi baru ditargetkan mendorong masyarakat beralih ke kendaraan ramah lingkungan.",
+    "image": "https://images.pexels.com/photos/356830/pexels-photo-356830.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Gempa Ringan Terjadi di Selatan Jawa",
+    "description": "Gempa tidak berpotensi tsunami namun dirasakan warga sepanjang pesisir.",
+    "image": "https://images.pexels.com/photos/390289/pexels-photo-390289.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Program Laptop untuk Pelajar Mulai Dijalankan",
+    "description": "Pemerintah mulai membagikan laptop gratis ke sekolah-sekolah.",
+    "image": "https://images.pexels.com/photos/1181216/pexels-photo-1181216.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Jumlah Penumpang KRL Meningkat 12 Persen",
+    "description": "Peningkatan terjadi akibat meningkatnya aktivitas bekerja di kantor.",
+    "image": "https://images.pexels.com/photos/258022/pexels-photo-258022.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Harga Cabai Terpantau Naik di Jawa Barat",
+    "description": "Harga cabai rawit naik hingga 20 persen dibanding minggu lalu.",
+    "image": "https://images.pexels.com/photos/860922/pexels-photo-860922.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Universitas di Indonesia Gencarkan Penelitian AI",
+    "description": "Banyak kampus memperkuat program riset untuk menghadapi industri 5.0.",
+    "image": "https://images.pexels.com/photos/256502/pexels-photo-256502.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Pariwisata Bali Mulai Ramai Menjelang Natal",
+    "description": "Hotel dan villa mulai mencatat kenaikan pemesanan.",
+    "image": "https://images.pexels.com/photos/753626/pexels-photo-753626.jpeg",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Cuaca Panas Ekstrem Landa Jabodetabek",
+    "description": "Suhu mencapai 35 derajat celcius, warga diminta menjaga kesehatan.",
+    "image": "https://images.pexels.com/photos/2409991/pexels-photo-2409991.jpeg",
+    "date": "2025-11-14"
   }
 ]
