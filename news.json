@@ -1,197 +1,182 @@
 [
   {
-    "judul": "Hujan Deras Guyur Bekasi, Sejumlah Jalan Terendam",
-    "deskripsi": "Hujan intensitas tinggi sejak sore membuat beberapa titik di Bekasi mengalami genangan air.",
-    "gambar": "https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg",
-    "link": "https://hadinnews.id/cuaca/hujan-bekasi"
+    "judul": "Hujan Deras Guyur Bekasi, Sejumlah Jalan Mulai Tergenang",
+    "deskripsi": "Hujan sejak pagi membuat beberapa titik di Bekasi tergenang hingga 30 cm.",
+    "gambar": "bekasi-diguyur-hujan-deras-2-rumah.png",
+    "link": "https://news1.com"
   },
   {
-    "judul": "Penggunaan AI di Sekolah Bekasi Meningkat Pesat",
-    "deskripsi": "Siswa kini mulai memanfaatkan AI untuk membantu tugas harian dan pembelajaran.",
-    "gambar": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
-    "link": "https://hadinnews.id/teknologi/ai-sekolah"
+    "judul": "Pelajar SMAN 72 Raih Medali Emas Olimpiade Matematika",
+    "deskripsi": "Siswa kelas 12 berhasil meraih medali emas tingkat nasional.",
+    "gambar": "sman72.png",
+    "link": "https://news2.com"
   },
   {
-    "judul": "Timnas U-23 Catat Kemenangan Bersejarah",
-    "deskripsi": "Timnas berhasil menang 3-0 dan melaju ke babak final turnamen internasional.",
-    "gambar": "https://images.pexels.com/photos/3991876/pexels-photo-3991876.jpeg",
-    "link": "https://hadinnews.id/olahraga/timnas-menang"
+    "judul": "Timnas Indonesia Menang 3-0 Atas Vietnam",
+    "deskripsi": "Indonesia tampil dominan sejak babak pertama dan menang telak.",
+    "gambar": "timnas.jpg",
+    "link": "https://news3.com"
   },
   {
-    "judul": "Startup Energi Terbarukan Asal Indonesia Dilirik Dunia",
-    "deskripsi": "Teknologi panel surya rumah tangga buatan lokal menarik perhatian investor asing.",
-    "gambar": "https://images.pexels.com/photos/987544/pexels-photo-987544.jpeg",
-    "link": "https://hadinnews.id/ekonomi/startup-surya"
+    "judul": "Harga Beras Melonjak di Pasaran",
+    "deskripsi": "Pedagang mengeluhkan kenaikan harga yang mencapai 25% dalam sepekan.",
+    "gambar": "beras.png",
+    "link": "https://news4.com"
   },
   {
-    "judul": "Kemacetan Parah Terjadi di Jalan Siliwangi Bekasi",
-    "deskripsi": "Kendaraan mengular hingga 2 km akibat truk bermuatan berat mogok.",
-    "gambar": "https://images.pexels.com/photos/210182/pexels-photo-210182.jpeg",
-    "link": "https://hadinnews.id/lalu-lintas/macet-bekasi"
+    "judul": "Pemadaman Listrik Bergilir Mulai Diberlakukan",
+    "deskripsi": "PLN menjelaskan pemadaman dilakukan karena perbaikan jalur transmisi.",
+    "gambar": "listrik.png",
+    "link": "https://news5.com"
   },
   {
-    "judul": "Aplikasi PayFast Resmi Meluncur di Indonesia",
-    "deskripsi": "Aplikasi dompet digital baru ini tawarkan transfer gratis dan cashback tinggi.",
-    "gambar": "https://images.pexels.com/photos/4968391/pexels-photo-4968391.jpeg",
-    "link": "https://hadinnews.id/teknologi/payfast"
+    "judul": "Festival Budaya Bekasi 2025 Resmi Dibuka",
+    "deskripsi": "Ribuan warga hadir memadati alun-alun untuk merayakan festival budaya.",
+    "gambar": "festival.png",
+    "link": "https://news6.com"
   },
   {
-    "judul": "PLN Umumkan Jadwal Pemadaman Akhir Pekan",
-    "deskripsi": "Pemeliharaan jaringan dilakukan di beberapa wilayah Bekasi Timur.",
-    "gambar": "https://images.pexels.com/photos/258192/pexels-photo-258192.jpeg",
-    "link": "https://hadinnews.id/nasional/pln-bekasi"
+    "judul": "Cuaca Ekstrem Diprediksi Berlangsung Sampai Januari",
+    "deskripsi": "BMKG mengimbau masyarakat untuk meningkatkan kewaspadaan.",
+    "gambar": "cuaca-ekstrem.png",
+    "link": "https://news7.com"
   },
   {
-    "judul": "Turnamen Mobile Legends Nasional Resmi Dimulai",
-    "deskripsi": "32 tim bertanding memperebutkan gelar juara nasional tahun ini.",
-    "gambar": "https://images.pexels.com/photos/7862591/pexels-photo-7862591.jpeg",
-    "link": "https://hadinnews.id/esports/mlbb-turnamen"
+    "judul": "Tol Layang Jakarta–Cikampek Padat Parah",
+    "deskripsi": "Kepadatan terjadi akibat perbaikan beton di KM 45 arah Cikampek.",
+    "gambar": "macet.png",
+    "link": "https://news8.com"
   },
   {
-    "judul": "AI Musik Jadi Tren Baru di Kalangan Kreator",
-    "deskripsi": "Generasi muda memanfaatkan AI untuk membuat aransemen dan nada unik.",
-    "gambar": "https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg",
-    "link": "https://hadinnews.id/teknologi/ai-musik"
+    "judul": "Pendaftaran CPNS 2025 Resmi Dibuka",
+    "deskripsi": "Ribuan pelamar langsung memadati portal SSCASN sejak pagi.",
+    "gambar": "cpns.png",
+    "link": "https://news9.com"
   },
   {
-    "judul": "Bekasi Tanam 5.000 Pohon Baru untuk Program Hijau",
-    "deskripsi": "Program ini dilakukan di 12 kecamatan dan ditargetkan selesai dalam 30 hari.",
-    "gambar": "https://images.pexels.com/photos/576090/pexels-photo-576090.jpeg",
-    "link": "https://hadinnews.id/nasional/5000-pohon"
-  },
-
-  {
-    "judul": "Harga Telur Anjlok di Pasar Tradisional",
-    "deskripsi": "Penurunan harga mencapai 15% setelah suplai dari peternak meningkat.",
-    "gambar": "https://images.pexels.com/photos/4791671/pexels-photo-4791671.jpeg",
-    "link": "https://hadinnews.id/ekonomi/harga-telur"
+    "judul": "Guru Honorer Dapat Insentif Tambahan",
+    "deskripsi": "Kementerian Pendidikan resmi menambah insentif sebesar Rp600.000/bulan.",
+    "gambar": "guru.png",
+    "link": "https://news10.com"
   },
   {
-    "judul": "Proyek Kereta Cepat Tahap 2 Resmi Dimulai",
-    "deskripsi": "Tahap lanjutan ini bakal memperluas jalur hingga Bandung Timur.",
-    "gambar": "https://images.pexels.com/photos/1578269/pexels-photo-1578269.jpeg",
-    "link": "https://hadinnews.id/nasional/kereta-cepat"
+    "judul": "Harga BBM Pertamina Tidak Naik di Akhir Tahun",
+    "deskripsi": "Pemerintah memastikan harga tetap untuk menjaga stabilitas ekonomi.",
+    "gambar": "bbm.png",
+    "link": "https://news11.com"
   },
   {
-    "judul": "Mahasiswa Ciptakan Robot Pembersih Sungai",
-    "deskripsi": "Robot otomatis ini dapat mengangkat sampah sekaligus memantau kualitas air.",
-    "gambar": "https://images.pexels.com/photos/1105379/pexels-photo-1105379.jpeg",
-    "link": "https://hadinnews.id/teknologi/robot-sungai"
+    "judul": "Laptop Kategori Gaming Turun Harga 30%",
+    "deskripsi": "Diskon besar menyambut akhir tahun membuat penjualan meningkat.",
+    "gambar": "laptop.png",
+    "link": "https://news12.com"
   },
   {
-    "judul": "Festival Musik Jakarta Dipadati Pengunjung",
-    "deskripsi": "Acara ini menghadirkan musisi lokal dan internasional dengan tema musim panas.",
-    "gambar": "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg",
-    "link": "https://hadinnews.id/hiburan/festival-musik"
+    "judul": "Tingkat Kriminalitas Menurun Selama Desember",
+    "deskripsi": "Polres Bekasi mencatat penurunan hingga 18%.",
+    "gambar": "kriminal.png",
+    "link": "https://news13.com"
   },
   {
-    "judul": "Ekspor Buah Tropis Indonesia Naik 8 Persen",
-    "deskripsi": "Durian dan manggis menjadi komoditas paling diminati di pasar global.",
-    "gambar": "https://images.pexels.com/photos/615666/pexels-photo-615666.jpeg",
-    "link": "https://hadinnews.id/ekonomi/ekspor-buah"
-  },
-
-  {
-    "judul": "Polisi Bekasi Tangkap Sindikat Penipuan Marketplace",
-    "deskripsi": "Pelaku menjual barang elektronik murah untuk menipu korbannya.",
-    "gambar": "https://images.pexels.com/photos/14514423/pexels-photo-14514423.jpeg",
-    "link": "https://hadinnews.id/hukum/penipuan-marketplace"
+    "judul": "Jembatan Baru Babelan Sudah Resmi Dibuka",
+    "deskripsi": "Jembatan ini mempersingkat waktu tempuh warga hingga 25 menit.",
+    "gambar": "jembatan.png",
+    "link": "https://news14.com"
   },
   {
-    "judul": "Aplikasi Tracking Sampah Masuk Tahap Uji Coba",
-    "deskripsi": "Teknologi ini mampu memantau volume sampah di TPS secara otomatis.",
-    "gambar": "https://images.pexels.com/photos/3735431/pexels-photo-3735431.jpeg",
-    "link": "https://hadinnews.id/teknologi/tracking-sampah"
+    "judul": "Turnamen Esport Nasional Digelar di Jakarta",
+    "deskripsi": "Ratusan peserta dari berbagai daerah ikut bertanding.",
+    "gambar": "esport.png",
+    "link": "https://news15.com"
   },
   {
-    "judul": "Industri Kopi Lokal Tumbuh Pesat Tahun Ini",
-    "deskripsi": "Kedai kopi kecil makin banyak bermunculan dengan konsep unik.",
-    "gambar": "https://images.pexels.com/photos/268245/pexels-photo-268245.jpeg",
-    "link": "https://hadinnews.id/ekonomi/kopi-lokal"
+    "judul": "Indonesia Tuan Rumah SEA Games 2027",
+    "deskripsi": "Resmi diumumkan oleh Komite Olimpiade Asia Tenggara.",
+    "gambar": "sea-games.png",
+    "link": "https://news16.com"
   },
   {
-    "judul": "Film Aksi Baru Indonesia Pecahkan Rekor Penonton",
-    "deskripsi": "Film tersebut meraih lebih dari 600 ribu penonton dalam lima hari.",
-    "gambar": "https://images.pexels.com/photos/799156/pexels-photo-799156.jpeg",
-    "link": "https://hadinnews.id/hiburan/film-aksi"
+    "judul": "Kasus Covid-19 Melandai, Rumah Sakit Lebih Longgar",
+    "deskripsi": "Jumlah pasien menurun drastis dalam dua bulan terakhir.",
+    "gambar": "covid.png",
+    "link": "https://news17.com"
   },
   {
-    "judul": "Komunitas Sepeda Gelar Gowes Akbar Bekasi",
-    "deskripsi": "Ribuan peserta mengikuti kegiatan gowes sejauh 25 km.",
-    "gambar": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg",
-    "link": "https://hadinnews.id/gaya-hidup/gowes-akbar"
-  },
-
-  {
-    "judul": "Riset Ungkap Potensi Energi Angin di Utara Jawa",
-    "deskripsi": "Peneliti menemukan lokasi angin stabil ideal untuk turbin raksasa.",
-    "gambar": "https://images.pexels.com/photos/532192/pexels-photo-532192.jpeg",
-    "link": "https://hadinnews.id/sains/energi-angin"
+    "judul": "Ekspor Produk UMKM Meningkat",
+    "deskripsi": "Kementerian Perdagangan menyebut peningkatan hingga 21%.",
+    "gambar": "umkm.png",
+    "link": "https://news18.com"
   },
   {
-    "judul": "Bekasi Bangun Fasilitas Olahraga Baru Tahun Ini",
-    "deskripsi": "Lapangan dan gedung olahraga baru akan dibangun di 3 kecamatan.",
-    "gambar": "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg",
-    "link": "https://hadinnews.id/olahraga/fasilitas-baru"
+    "judul": "Taman Kota Bekasi Diresmikan Kembali",
+    "deskripsi": "Kini memiliki area jogging track dan wahana anak.",
+    "gambar": "taman.png",
+    "link": "https://news19.com"
   },
   {
-    "judul": "Pelajar Bekasi Menang Lomba Robot Dunia",
-    "deskripsi": "Tim pelajar sukses merebut emas dalam kompetisi robot internasional.",
-    "gambar": "https://images.pexels.com/photos/843891/pexels-photo-843891.jpeg",
-    "link": "https://hadinnews.id/teknologi/juara-robot"
+    "judul": "Bus Listrik Mulai Beroperasi di Jabodetabek",
+    "deskripsi": "Dilengkapi fasilitas Wi-Fi dan sistem pembayaran digital.",
+    "gambar": "bus-listrik.png",
+    "link": "https://news20.com"
   },
   {
-    "judul": "Harga Cabai Mulai Stabil Setelah Lonjakan",
-    "deskripsi": "Pasokan dari petani kembali normal sehingga harga menurun perlahan.",
-    "gambar": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
-    "link": "https://hadinnews.id/ekonomi/harga-cabai"
+    "judul": "Liga 1: Persib Kalah 2-1 dari Arema",
+    "deskripsi": "Gol penentu terjadi pada injury time.",
+    "gambar": "liga1.png",
+    "link": "https://news21.com"
   },
   {
-    "judul": "Stasiun Bekasi Tambah Layanan Baru Penumpang",
-    "deskripsi": "Fasilitas boarding gate baru dibuka untuk mengurangi antrean.",
-    "gambar": "https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg",
-    "link": "https://hadinnews.id/nasional/stasiun-bekasi"
+    "judul": "Polisi Ringkus Pelaku Penipuan Online",
+    "deskripsi": "Pelaku ditangkap setelah mencuri uang ratusan juta dari puluhan korban.",
+    "gambar": "penipuan.png",
+    "link": "https://news22.com"
   },
   {
-    "judul": "Event Cosplay Bekasi Dipadati Anak Muda",
-    "deskripsi": "Ratusan cosplayer hadir dengan kostum terbaik mereka.",
-    "gambar": "https://images.pexels.com/photos/1904769/pexels-photo-1904769.jpeg",
-    "link": "https://hadinnews.id/hiburan/cosplay-bekasi"
+    "judul": "Minat Baca Generasi Muda Meningkat",
+    "deskripsi": "Survei nasional menunjukkan peningkatan sebesar 11%.",
+    "gambar": "buku.png",
+    "link": "https://news23.com"
   },
   {
-    "judul": "Banjir di Perumahan Babelan Mulai Surut",
-    "deskripsi": "Air surut setelah dilakukan penyedotan dan cuaca membaik.",
-    "gambar": "https://images.pexels.com/photos/4601191/pexels-photo-4601191.jpeg",
-    "link": "https://hadinnews.id/cuaca/banjir-babelan"
+    "judul": "Pemkot Gratiskan Pembuatan KTP Hingga Januari",
+    "deskripsi": "Warga dapat melakukan perekaman KTP tanpa biaya.",
+    "gambar": "ktp.png",
+    "link": "https://news24.com"
   },
   {
-    "judul": "Pelatih Timnas Optimis Hadapi Laga Final",
-    "deskripsi": "Tim dinilai berada dalam kondisi prima menjelang pertandingan.",
-    "gambar": "https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg",
-    "link": "https://hadinnews.id/olahraga/laga-final"
+    "judul": "Penyakit DBD Mengalami Penurunan Signifikan",
+    "deskripsi": "Program fogging massal dinilai efektif.",
+    "gambar": "dbd.png",
+    "link": "https://news25.com"
   },
   {
-    "judul": "Penjualan Laptop Gaming Naik 20% Pada 2025",
-    "deskripsi": "Kebutuhan untuk esports dan editing jadi penyebab utama meningkat.",
-    "gambar": "https://images.pexels.com/photos/907487/pexels-photo-907487.jpeg",
-    "link": "https://hadinnews.id/teknologi/laptop-gaming"
+    "judul": "Startup Lokal Rilis Aplikasi Belajar Gratis",
+    "deskripsi": "Aplikasi ini menyediakan ribuan modul tanpa biaya.",
+    "gambar": "aplikasi.png",
+    "link": "https://news26.com"
   },
   {
-    "judul": "Harga Beras Berangsur Turun di Jawa Barat",
-    "deskripsi": "Pemerintah melakukan operasi pasar untuk menekan lonjakan harga.",
-    "gambar": "https://images.pexels.com/photos/4022099/pexels-photo-4022099.jpeg",
-    "link": "https://hadinnews.id/ekonomi/harga-beras"
+    "judul": "Pesawat Tanpa Awak Dipakai Pantau Banjir",
+    "deskripsi": "Monitoring dilakukan untuk mendeteksi titik rawan banjir.",
+    "gambar": "drone.png",
+    "link": "https://news27.com"
   },
   {
-    "judul": "Bekasi Gelar Festival Kuliner Nusantara",
-    "deskripsi": "Puluhan UMKM kuliner ikut meramaikan acara di alun-alun kota.",
-    "gambar": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg",
-    "link": "https://hadinnews.id/hiburan/festival-kuliner"
+    "judul": "Penggunaan AI Mulai Masuk Kurikulum Sekolah",
+    "deskripsi": "Guru diberikan pelatihan khusus pemanfaatan teknologi AI.",
+    "gambar": "ai.png",
+    "link": "https://news28.com"
   },
   {
-    "judul": "Program Smart City Bekasi Masuki Tahap Baru",
-    "deskripsi": "Kota Bekasi mulai menerapkan sistem IoT untuk pengelolaan data publik.",
-    "gambar": "https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg",
-    "link": "https://hadinnews.id/teknologi/smart-city"
+    "judul": "Pengangguran di Indonesia Menurun",
+    "deskripsi": "BPS mencatat penurunan hingga 1,8 juta orang.",
+    "gambar": "pengangguran.png",
+    "link": "https://news29.com"
+  },
+  {
+    "judul": "Pelabuhan Patimban Siap Layani Ekspor Mobil Listrik",
+    "deskripsi": "Pemerintah menargetkan ekspor 200 ribu unit per tahun.",
+    "gambar": "pelabuhan.png",
+    "link": "https://news30.com"
   }
 ]
