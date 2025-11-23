@@ -1,182 +1,122 @@
 [
   {
-    "judul": "Hujan Deras Guyur Bekasi, Sejumlah Jalan Mulai Tergenang",
-    "deskripsi": "Hujan sejak pagi membuat beberapa titik di Bekasi tergenang hingga 30 cm.",
-    "gambar": "bekasi-diguyur-hujan-deras-2-rumah.png",
-    "link": "https://news1.com"
+    "judul": "Pemudik Mulai Padati Stasiun Bekasi Jelang Libur Akhir Tahun",
+    "deskripsi": "Kedatangan penumpang meningkat hingga 45% dibandingkan pekan lalu.",
+    "gambar": "stasiun.png",
+    "link": "https://update1.com"
   },
   {
-    "judul": "Pelajar SMAN 72 Raih Medali Emas Olimpiade Matematika",
-    "deskripsi": "Siswa kelas 12 berhasil meraih medali emas tingkat nasional.",
-    "gambar": "sman72.png",
-    "link": "https://news2.com"
+    "judul": "Pemerintah Siapkan Bantuan untuk Warga Terdampak Banjir",
+    "deskripsi": "Bantuan berupa makanan siap saji dan obat-obatan mulai disalurkan.",
+    "gambar": "banjir.png",
+    "link": "https://update2.com"
   },
   {
-    "judul": "Timnas Indonesia Menang 3-0 Atas Vietnam",
-    "deskripsi": "Indonesia tampil dominan sejak babak pertama dan menang telak.",
-    "gambar": "timnas.jpg",
-    "link": "https://news3.com"
+    "judul": "Jalan Raya Babelan Akan Diperbaiki Awal Tahun 2026",
+    "deskripsi": "Proyek peningkatan jalan dilakukan untuk mengurai kemacetan.",
+    "gambar": "perbaikan-jalan.png",
+    "link": "https://update3.com"
   },
   {
-    "judul": "Harga Beras Melonjak di Pasaran",
-    "deskripsi": "Pedagang mengeluhkan kenaikan harga yang mencapai 25% dalam sepekan.",
-    "gambar": "beras.png",
-    "link": "https://news4.com"
+    "judul": "Startup Bekasi Kembangkan Aplikasi Jual Beli Sembako",
+    "deskripsi": "Aplikasi ini memungkinkan warga berbelanja sembako dari rumah.",
+    "gambar": "sembako.png",
+    "link": "https://update4.com"
   },
   {
-    "judul": "Pemadaman Listrik Bergilir Mulai Diberlakukan",
-    "deskripsi": "PLN menjelaskan pemadaman dilakukan karena perbaikan jalur transmisi.",
-    "gambar": "listrik.png",
-    "link": "https://news5.com"
+    "judul": "Layanan Internet Gratis Diluncurkan di 38 Sekolah",
+    "deskripsi": "Program ini ditargetkan selesai di seluruh sekolah tahun depan.",
+    "gambar": "wifi.png",
+    "link": "https://update5.com"
   },
   {
-    "judul": "Festival Budaya Bekasi 2025 Resmi Dibuka",
-    "deskripsi": "Ribuan warga hadir memadati alun-alun untuk merayakan festival budaya.",
-    "gambar": "festival.png",
-    "link": "https://news6.com"
+    "judul": "Turnamen Mobile Legends Antar Pelajar Digelar di Bekasi",
+    "deskripsi": "Total hadiah mencapai Rp 30 juta untuk para pemenang.",
+    "gambar": "mlbb.png",
+    "link": "https://update6.com"
   },
   {
-    "judul": "Cuaca Ekstrem Diprediksi Berlangsung Sampai Januari",
-    "deskripsi": "BMKG mengimbau masyarakat untuk meningkatkan kewaspadaan.",
-    "gambar": "cuaca-ekstrem.png",
-    "link": "https://news7.com"
+    "judul": "Minimarket 24 Jam Bertambah di Daerah Perumahan",
+    "deskripsi": "Menjawab kebutuhan warga akan layanan belanja nonstop.",
+    "gambar": "minimarket.png",
+    "link": "https://update7.com"
   },
   {
-    "judul": "Tol Layang Jakarta–Cikampek Padat Parah",
-    "deskripsi": "Kepadatan terjadi akibat perbaikan beton di KM 45 arah Cikampek.",
-    "gambar": "macet.png",
-    "link": "https://news8.com"
+    "judul": "Kebakaran Gudang Plastik Berhasil Dipadamkan",
+    "deskripsi": "Kebakaran terjadi pukul 02.45 dan tidak ada korban jiwa.",
+    "gambar": "kebakaran.png",
+    "link": "https://update8.com"
   },
   {
-    "judul": "Pendaftaran CPNS 2025 Resmi Dibuka",
-    "deskripsi": "Ribuan pelamar langsung memadati portal SSCASN sejak pagi.",
-    "gambar": "cpns.png",
-    "link": "https://news9.com"
+    "judul": "Harga Ayam Potong Mengalami Penurunan",
+    "deskripsi": "Harga turun sekitar Rp 4.000 per kilogram di pasaran.",
+    "gambar": "ayam.png",
+    "link": "https://update9.com"
   },
   {
-    "judul": "Guru Honorer Dapat Insentif Tambahan",
-    "deskripsi": "Kementerian Pendidikan resmi menambah insentif sebesar Rp600.000/bulan.",
-    "gambar": "guru.png",
-    "link": "https://news10.com"
+    "judul": "Bus Bekasi — Blok M Tambah 25 Armada Baru",
+    "deskripsi": "Jadwal keberangkatan menjadi lebih sering tanpa jeda panjang.",
+    "gambar": "bus.png",
+    "link": "https://update10.com"
   },
   {
-    "judul": "Harga BBM Pertamina Tidak Naik di Akhir Tahun",
-    "deskripsi": "Pemerintah memastikan harga tetap untuk menjaga stabilitas ekonomi.",
-    "gambar": "bbm.png",
-    "link": "https://news11.com"
+    "judul": "Penggunaan QRIS di Pasar Tradisional Meningkat Tajam",
+    "deskripsi": "Transaksi digital kini mencapai lebih dari 60%.",
+    "gambar": "qris.png",
+    "link": "https://update11.com"
   },
   {
-    "judul": "Laptop Kategori Gaming Turun Harga 30%",
-    "deskripsi": "Diskon besar menyambut akhir tahun membuat penjualan meningkat.",
-    "gambar": "laptop.png",
-    "link": "https://news12.com"
+    "judul": "Perpustakaan Digital Bekasi Diluncurkan",
+    "deskripsi": "Lebih dari 12.000 buku dapat diakses warga secara online.",
+    "gambar": "perpustakaan.png",
+    "link": "https://update12.com"
   },
   {
-    "judul": "Tingkat Kriminalitas Menurun Selama Desember",
-    "deskripsi": "Polres Bekasi mencatat penurunan hingga 18%.",
-    "gambar": "kriminal.png",
-    "link": "https://news13.com"
+    "judul": "Relawan Bersihkan Sampah Sungai Kaliabang",
+    "deskripsi": "Kegiatan diikuti lebih dari 120 peserta dari berbagai komunitas.",
+    "gambar": "sungai.png",
+    "link": "https://update13.com"
   },
   {
-    "judul": "Jembatan Baru Babelan Sudah Resmi Dibuka",
-    "deskripsi": "Jembatan ini mempersingkat waktu tempuh warga hingga 25 menit.",
-    "gambar": "jembatan.png",
-    "link": "https://news14.com"
+    "judul": "Event Bekasi Culinary Night Sukses Menarik Ribuan Pengunjung",
+    "deskripsi": "Kuliner khas Nusantara menjadi daya tarik terbesar.",
+    "gambar": "kuliner.png",
+    "link": "https://update14.com"
   },
   {
-    "judul": "Turnamen Esport Nasional Digelar di Jakarta",
-    "deskripsi": "Ratusan peserta dari berbagai daerah ikut bertanding.",
-    "gambar": "esport.png",
-    "link": "https://news15.com"
+    "judul": "Sistem Pengaduan Online Untuk Warga Resmi Diperkenalkan",
+    "deskripsi": "Pengaduan dapat langsung dipantau melalui aplikasi.",
+    "gambar": "pengaduan.png",
+    "link": "https://update15.com"
   },
   {
-    "judul": "Indonesia Tuan Rumah SEA Games 2027",
-    "deskripsi": "Resmi diumumkan oleh Komite Olimpiade Asia Tenggara.",
-    "gambar": "sea-games.png",
-    "link": "https://news16.com"
+    "judul": "Program Vaksin Gratis Hewan Peliharaan Digelar",
+    "deskripsi": "Pendaftaran sudah dibuka untuk 2.500 pemilik hewan.",
+    "gambar": "vaksin-hewan.png",
+    "link": "https://update16.com"
   },
   {
-    "judul": "Kasus Covid-19 Melandai, Rumah Sakit Lebih Longgar",
-    "deskripsi": "Jumlah pasien menurun drastis dalam dua bulan terakhir.",
-    "gambar": "covid.png",
-    "link": "https://news17.com"
+    "judul": "Lomba Foto Kota Bekasi Dibuka untuk Umum",
+    "deskripsi": "Karya terbaik akan dipajang di alun-alun kota.",
+    "gambar": "lomba-foto.png",
+    "link": "https://update17.com"
   },
   {
-    "judul": "Ekspor Produk UMKM Meningkat",
-    "deskripsi": "Kementerian Perdagangan menyebut peningkatan hingga 21%.",
-    "gambar": "umkm.png",
-    "link": "https://news18.com"
+    "judul": "Air Bersih Mulai Normal di Beberapa Wilayah",
+    "deskripsi": "PDAM menyelesaikan perbaikan instalasi pompa dalam waktu dua hari.",
+    "gambar": "air-bersih.png",
+    "link": "https://update18.com"
   },
   {
-    "judul": "Taman Kota Bekasi Diresmikan Kembali",
-    "deskripsi": "Kini memiliki area jogging track dan wahana anak.",
-    "gambar": "taman.png",
-    "link": "https://news19.com"
+    "judul": "Kenaikan Tarif Transportasi Online Ditunda",
+    "deskripsi": "Kebijakan ditunda untuk menjaga daya beli masyarakat.",
+    "gambar": "ojol.png",
+    "link": "https://update19.com"
   },
   {
-    "judul": "Bus Listrik Mulai Beroperasi di Jabodetabek",
-    "deskripsi": "Dilengkapi fasilitas Wi-Fi dan sistem pembayaran digital.",
-    "gambar": "bus-listrik.png",
-    "link": "https://news20.com"
-  },
-  {
-    "judul": "Liga 1: Persib Kalah 2-1 dari Arema",
-    "deskripsi": "Gol penentu terjadi pada injury time.",
-    "gambar": "liga1.png",
-    "link": "https://news21.com"
-  },
-  {
-    "judul": "Polisi Ringkus Pelaku Penipuan Online",
-    "deskripsi": "Pelaku ditangkap setelah mencuri uang ratusan juta dari puluhan korban.",
-    "gambar": "penipuan.png",
-    "link": "https://news22.com"
-  },
-  {
-    "judul": "Minat Baca Generasi Muda Meningkat",
-    "deskripsi": "Survei nasional menunjukkan peningkatan sebesar 11%.",
-    "gambar": "buku.png",
-    "link": "https://news23.com"
-  },
-  {
-    "judul": "Pemkot Gratiskan Pembuatan KTP Hingga Januari",
-    "deskripsi": "Warga dapat melakukan perekaman KTP tanpa biaya.",
-    "gambar": "ktp.png",
-    "link": "https://news24.com"
-  },
-  {
-    "judul": "Penyakit DBD Mengalami Penurunan Signifikan",
-    "deskripsi": "Program fogging massal dinilai efektif.",
-    "gambar": "dbd.png",
-    "link": "https://news25.com"
-  },
-  {
-    "judul": "Startup Lokal Rilis Aplikasi Belajar Gratis",
-    "deskripsi": "Aplikasi ini menyediakan ribuan modul tanpa biaya.",
-    "gambar": "aplikasi.png",
-    "link": "https://news26.com"
-  },
-  {
-    "judul": "Pesawat Tanpa Awak Dipakai Pantau Banjir",
-    "deskripsi": "Monitoring dilakukan untuk mendeteksi titik rawan banjir.",
-    "gambar": "drone.png",
-    "link": "https://news27.com"
-  },
-  {
-    "judul": "Penggunaan AI Mulai Masuk Kurikulum Sekolah",
-    "deskripsi": "Guru diberikan pelatihan khusus pemanfaatan teknologi AI.",
-    "gambar": "ai.png",
-    "link": "https://news28.com"
-  },
-  {
-    "judul": "Pengangguran di Indonesia Menurun",
-    "deskripsi": "BPS mencatat penurunan hingga 1,8 juta orang.",
-    "gambar": "pengangguran.png",
-    "link": "https://news29.com"
-  },
-  {
-    "judul": "Pelabuhan Patimban Siap Layani Ekspor Mobil Listrik",
-    "deskripsi": "Pemerintah menargetkan ekspor 200 ribu unit per tahun.",
-    "gambar": "pelabuhan.png",
-    "link": "https://news30.com"
+    "judul": "Film Lokal Tembus 8 Juta Penonton dalam 12 Hari",
+    "deskripsi": "Film bergenre drama keluarga ini mendapat apresiasi tinggi dari masyarakat.",
+    "gambar": "film.png",
+    "link": "https://update20.com"
   }
 ]
